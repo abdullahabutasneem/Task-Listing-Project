@@ -1,0 +1,12 @@
+html{
+    background-color: rgb(171, 188, 219);
+}
+h4{
+    font-family: 'Poppins', sans-serif;
+}
+#btn{
+    background-color: rgb(240, 238, 235);
+}
+#clear_task_btn{
+    background: rgb(104, 112, 81);
+}
